@@ -42,20 +42,8 @@ To simulate and track the performance of a user-defined investment portfolio usi
 ---
 
 ## 📁 Project Structure
+![image](https://github.com/user-attachments/assets/108240ff-91dc-4d82-98d8-1c894a870069)
 
-Portfolio-Performance-Project/
-├── data/
-│ └── portfolio_data.xlsx # Fetched stock prices
-├── reports/
-│ └── portfolio_metrics.xlsx # Metrics summary
-│ └── portfolio_metrics.xlsm # With VBA formatting
-├── scripts/
-│ ├── fetch_prices.py # Data collection
-│ └── calculate_metrics.py # Metrics calculations
-├── dashboard/
-│ └── portfolio_dashboard.pbix # Power BI file
-│ └── portfolio_dashboard.pdf # Exported summary (optional)
-└── README.md # This documentation
 
 ## 🚀 How to Run
 
