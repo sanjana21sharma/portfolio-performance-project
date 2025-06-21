@@ -10,7 +10,7 @@ To simulate and track the performance of a user-defined investment portfolio usi
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 | Tool      | Purpose                                   |
 |-----------|-------------------------------------------|
