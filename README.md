@@ -1,5 +1,10 @@
 # Portfolio Performance Tracker (2015–2025)
 
+![Python](https://img.shields.io/badge/Built%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Data-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Visualized%20with-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![VBA](https://img.shields.io/badge/Automated%20with-VBA-0076BA?style=for-the-badge&logo=visualstudio&logoColor=white)
+
 This project demonstrates a complete **financial data analysis pipeline** built using Python, Excel, VBA, and Power BI. It analyzes a multi-asset stock portfolio over 10 years and computes key performance metrics such as returns, volatility, and Sharpe ratio. The final output is a professional, interactive Power BI dashboard.
 
 ---
